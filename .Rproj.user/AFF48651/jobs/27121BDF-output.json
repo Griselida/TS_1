@@ -1,0 +1,4 @@
+[1,"==> quarto preview TS.qmd --to html --no-watch-inputs --no-browse\n\n"]
+[1,"pandoc \n  to: html\n  output-file: index.html\n  standalone: true\n  embed-resources: true\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  toc: true\n  number-sections: true\n  css:\n    - estilo.css\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  title: PROYECTO DE TESIS\n  author: Griselida Rojas Campos\n  editor_options:\n    chunk_output_type: console\n  toc-location: left\n  theme: darkly\n  \n"]
+[1,"Output created: index.html\n\nWatching files for changes\nBrowse at "]
+[1,"http://localhost:6643/\n"]

@@ -1,0 +1,362 @@
+---
+title: "PROYECTO DE TESIS"
+author: "Griselida Rojas Campos"
+format:
+  html:
+   toc: true
+   toc-location: left
+   embed-resources: true
+   number-sections: true
+   output-file: index
+   theme: darkly
+   css: estilo.css
+editor_options: 
+  chunk_output_type: console
+---
+
+# TITULO
+
+Comportamiento agronómico, fisiológico y valor nutricional de cinco cultivares de coliflor (Brassica oleracea var. botrytis) bajo las condiciones edafoclimáticas de Chachapoyas, Amazonas.
+
+# PROBLEMA
+
+La producción de coliflor en el Perú ha experimentado un crecimiento sostenido en los últimos años, impulsado por una mayor demanda tanto a nivel nacional como regional. La provincia de Chachapoyas tiene un gran potencial para el cultivo de coliflor, las condiciones climáticas favorables y la disponibilidad de suelos fértiles son factores claves que pueden contribuir al desarrollo de este cultivo. Sin embargo, la productividad de este cultivo no alcanza su máximo potencial debido a la falta de uso de prácticas agrícolas sostenibles, especialmente el uso de material genético moderno como el uso de híbridos, que en muchas ocasiones limitan el rendimiento. Esta situación representa una oportunidad para evaluar diferentes cultivares de coliflor e identificar aquellas que se adapten a las condiciones específicas de la región, lo que permitirá maximizar la producción y mejorar la rentabilidad de los agricultores locales. 
+¿Cuál será el comportamiento agronómico, fisiológico y el valor nutricional de cinco cultivares de coliflor (Brassica oleracea var botrytis) bajo las condiciones edafoclimáticas de Chachapoyas, Amazonas?
+
+# OBJETIVOS
+
+## OBJETIVO GENERAL
+
+- Determinar el comportamiento agronómico, fisiológico y valor nutricional de cinco cultivares de coliflor (Brassica oleracea var. botrytis) bajo las condiciones edafoclimáticas de Chachapoyas, Amazonas.
+
+## OBJETIVOS ESPECÍFICOS
+
+- Describir el comportamiento fenológico de cinco cultivares de coliflor bajo las condiciones edafoclimáticas de Chachapoyas, Amazonas.
+- Evaluar los parámetros agronómicos de cinco cultivares de coliflor bajo las condiciones edafoclimáticas de Chachapoyas, Amazonas.
+- Evaluar los parámetros fisiológicos de cinco cultivares de coliflor bajo las condiciones edafoclimáticas de Chachapoyas, Amazonas.
+- Evaluar el valor nutricional de cinco cultivares de coliflor bajo las condiciones edafoclimáticas de Chachapoyas, Amazonas.
+
+# ANTECEDENTES DE LA INVESTIGACIÓN
+
+Las Brassicas como la coliflor y brócoli (Brassica oleracea var. italica Plenck), comparten genes en común, en cuanto a su domesticación del brócoli silvestre se cree se realizó hace miles de años en el Mediterráneo oriental, y se logra expandir hacia China, para que posterior a ello en una medida de 500 años, se comenzó a seleccionar las variedades más comunes, que tengan una densa florescencia terminal blanca lo que origina a la coliflor y una inflorescencia verde menos compactada que viene a ser el brócoli (Ordás Pérez, 2001).
+Pese a diversos datos recopilados de informes de viajeros que aseguran haber encontrado la coliflor en estado salvaje en regiones inusuales, no hay una fuente verídica que asegure esto, y es poco confiable ya que en algunas de estas regiones no presentan el entorno climático idóneo para su desarrollo, además, el periodo de invierno en el este de Europa y Siberia son severos para su desarrollo, en la actualidad las principales áreas productivas a nivel mundial son en Long Island, Nueva York, California  y el estado de Oregón (Mittell et al., 2020).
+Otros autores también hacen referencia de su origen Mediterráneo o Asia Menor a las peñas calcáreas de Inglaterra, a las costas de Dinamarca, a Francia y España. Inclusive hay referencias históricas anteriores a la era cristiana, la coliflor en un estado nativo o salvaje se encuentra en la superficie de rocas a orilla del mar, en islas como Laaland-Dinamarca, Heligoland- Inglaterra e Irlanda, Canal, Charente interior. Además, Sibthorp afirmó hallar este vegetal en el monte Athos, pero esto no fue confirmado por ningún científico botánico actualmente (Mabry et al., 2021). 
+Si bien hay diversas variedades de este vegetal, la más notable es la coliflor blanca, con una inflorescencia de pequeños ramilletes comestibles, con una distribución similar al brócoli, su domesticación se atribuye a diversas afirmaciones, como los egipcios, griegos y romanos. Si bien en un principio este cultivo se concentró en la península de Italia y según la comercialización con Roma, esta se distribuye por el Mediterráneo, ya en el siglo XVI se extiende a Francia, en 1586 aparece en Inglaterra, en el siglo XVII se difunde por toda Europa, a finales del siglo XVIII a España y durante el siglo XIX Europa lo extiende a todo el mundo por medio de la colonización (Maggioni et al., 2010).
+
+En cuanto a su a la escala de la producción a nivel mundial alcanza aproximadamente 20 millones de toneladas anuales, la superficie cultivable es de 1.6 millones de hectáreas. En el 2020 alcanzo 20.97 millones de toneladas anuales, con un crecimiento del 3.7% al año anterior (FAO, 2020). 
+Asia encabeza la lista de producción mundial con un aproximado de 21.1 millones de toneladas en el 2022, en China se producen aproximadamente 9.6 millones de toneladas (75 % de producción total mundial), la India produce 9.2 millones de toneladas, siguiendo con Estados Unidos con un aproximado de 0,93 millones de toneladas, España con alrededor de 737 mil toneladas y México con un estimado de 696 mil toneladas (Scienceagri, 2022) (World Population, 2025).
+En cuanto la producción a nivel nacional de la coliflor en el Perú, es relativamente modesta comparada con los líderes de producción mundial, según INEI el país  produce aproximadamente 18 282 s (INEI, 2024b).
+En Perú, la producción de acuerdo con datos oficiales, ha sido irregular, por ejemplo, en 2019 se produjo 18 974 toneladas, en el 2020 se produjo 19 240 toneladas, en el 2021 se produjo 16 431 toneladas y en el 2022 se produjo 17 820 toneladas, además este cultivo está concentrado principalmente en la región costera central del país (INEI, 2024b).  
+En la producción a nivel regional encabezan la lista regiones como Arequipa que produjo 2623 toneladas en 2023, Junín produjo 1426 toneladas, Cusco produce un aproximado de 1 300 toneladas y Lima, que lidera en gran medida la producción con un estimado 9 367 toneladas en el 2023, aunque su siembra se da también en otras regiones del país aptas para su desarrollo, su producción es a menor escala, su comercialización se da en mercados menores o se usan para consumo propio(INEI, 2024b).
+Mientras que la producción de coliflor nivel de la región Amazonas se encuentra en estado limitante, según el Instituto Nacional de Estadística e informática  en el 2020 se produjo un aproximado de 71 toneladas, en el 2021 108 toneladas, en el 2022 se produjo 137 toneladas y en el 2023 se produjo 140 toneladas, lo que significa que este cultivar es menos sembrado en la zona, su consumo radica más en el área local o familiar y no se ve cambios próximos ante esta temática (INEI, 2024a).
+Este cultivar es sembrado en varias partes del mundo ya sea por semilla botánica o mediante in-vitro, además, la hibridación de este cultivo es sumamente importante ante la adaptación a diversos climas y otros factores fundamentales para su desarrollo, y entre las variedades de mayor comercialización se clasifican las de ciclo corto de 65-85 días, la de medio de 85-135 días y largo de más de 135 días para su desarrollo. A nivel del globo terráqueo, destacan cultivares cortos como por ejemplo Snowball (cabeza blanca precoz), de media estación Yukon o Kashmir (Romero & Pérez, 2024). 
+En el país los híbridos predominantes son Syngenta y Sakata, que se adaptan a las condiciones locales con más facilidad, y de periodo medio, dichas variedad son ingresadas para generar una mayor calidad y rendimiento dependiendo a la temporada y altitud que influyen bastante.
+El precio de la coliflor en el mercado internacional en el 2024 por kilogramos osilla en $1.39/kg, en cuanto a EE.UU. el precio de exportación está entre $0.72 y $2.10 por kg. 
+En el Perú el precio de coliflor en el mercado mayorista interno en el 2025 oscila en la actualidad entre $0.29–$0.33 USD/kg (aproximadamente S/1.09–1.24 por kg), lo que equivale a unos 290–330 USD por tonelada. Mientras que en la región de Amazonas, en el mercado central de la provincia de Chachapoyas el precio oscila entre los S/12 el kilogramo, y los datos de otras provincias no están en la nube, ya que los mercados locales son pequeños, tienen a tener una producción relativamente menor al mercado nacional, una menor oferta y menor cultivo (Index Box, 2025).
+La problemática agronómica que generalmente se genera son en el clima, ya que este cultivar requiere climas templados a fresco, presenta susceptibilidad a temperaturas altas o heladas, por ejemplo, temperaturas elevadas produce una abertura en la parte superior o cabeza de este vegetal, y las temperaturas bajas daña a la circulación de fluidos en la planta, ralentiza su crecimiento y muchas veces la planta muere. Mientras que la otra problemática que bien a ser el sueño, ya que para que el cultivo de coliflor se desarrollo es necesario que el sueño esté drenado adecuadamente, con un pH neutro ligeramente ácido y sobre todo con una buena Calidad orgánica y de biomasa.
+En cuanto a las Plagas estás son causantes principales de degradar el follaje, tenemos ejemplos como las pulguillas, mosca blanca, pulgones, larvas de orugas, babosas, entre otras. Las Plagas que afectan a la raíz son mayormente larvas de mosca de raíz, taladros o nematodos, esto afecta enormemente a la calidad de la producción total del cultivo y genera enormes pérdidas al agricultor si no se tiene un manejo adecuado preventivamente o de control
+Y otra de las problemáticas más destructivas es las enfermedades en brócoli como la podredumbre gris en hojas, el mildiu, los hongos como Rhizotocnia solani y  Phoma lingam que afectan a las raíces o cuello del tallo de esta planta, y en la región Amazonas, provincia de Chachapoyas la humedad es un agravante para su desarrollo además de la falta de rotación secuencial o un manejo de prevención adecuado (García, 2010).
+En la región este cultivo no se implanta a gran escala debido a este cultivo es de alto costo, ya que requiere diversos insumos como pesticidas, fertilizantes o riego continuo, etc., además de mano de obra lo que da un aumento en el costo por hectáreas. Otro factor es el cambio de los precios de manera espontánea, es decir se generan fluctuaciones no solo a nivel nacional, regional, local, sino que también internacionalmente, afectando la rentabilidad de este producto y por último, el factor más limitante es el consumo que tiende a tener, ya que es moderado no está tan incluido en la mesa del consumidor de manera regular (Flores et al., 2020).
+
+# HIPÓTESIS
+
+Al menos existe un cultivar de coliflor que se adapta de manera favorable a las condiciones edafoclimáticas de Chachapoyas, Amazonas.
+
+# METODOLOGÍA
+
+## Población, muestra y muestreo
+
+### Área de estudio. 
+
+La presente investigación se va a desarrollar en una parcela ubicada a espaldas de la Universidad Nacional Toribio Rodríguez de Mendoza, el distrito de Chachapoyas, provincia de Chachapoyas, región Amazonas (Perú) a una altitud de 2428 m.s.n.m y con las siguientes coordenadas geográficas de 6°13’35” S y 77°52’27” O.
+
+![**Figura 1.** *ubicacion*](ubicación.jpeg)
+
+### Población
+
+La población de la investigación estará constituida por todas las plantas de coliflor de las distintas variedades que se van a cultivar bajo las condiciones climáticas de Chachapoyas.
+
+### Muestra
+
+La muestra esta conformada por las plantas de cinco cultivares de coliflor seleccionados para la investigación. Se trabajará con un total de 20 unidades experimentales, resultado de 5 tratamientos por 4 repeticiones cultivadas en un área total de 394.45 m2.
+
+### Muestreo
+
+se empleará un muestreo aleatorio sistemático dentro de cada unidad experimental. Para las evaluaciones se seleccionará de forma aleatoria 10 plantas de los surcos intermedios de cada unidad experimental, las cuales serán marcadas y monitoreadas. 
+
+## Variables de estudio
+
+###  Variable independiente
+
+-	Cinco cultivares de coliflor
+-	Condiciones edafoclimáticas de Chachapoyas
+
+### Variable dependiente 
+
+**Variables morfológicas y fenológicas**
+
+-	Número de hojas
+
+-	Altura de plantas
+
+-	Días al inicio de la floración
+
+-	Días a la cosecha
+
+**Variables agronómicas**
+
+-	% de germinación
+
+-	% de prendimiento
+
+-	Diámetro de la pella
+
+-	Peso de la pella
+
+-	Rendimiento de pella
+
+**Variables fisiológicas**
+
+-	Fotosíntesis neta
+
+-	Fluorescencia de la clorofila
+
+-	Contenido de clorofila a y b
+
+-	Contenido de carotenoides totales
+
+**Variables nutricionales de la pella**
+
+-	Materia seca
+
+-	Contenido total de aminoácidos
+
+-	Contenido total de proteínas
+
+-	Contenido total de azúcares
+
+-	Contenido total de almidón
+
+-	Contenido total de compuestos fenólicos
+
+## Metodos
+
+### Semilla de coliflor
+
+Las semillas serán obtenidas de distribuidores autorizados. A continuación, se muestran los nombres de los cultivares de coliflor que serán utilizados en el estudio.
+
+**Tabla 1.** Cultivares de coliflor que se utilizarán en la investigación
+
+| Cultivar   | Tipo               | Marca comercial |
+|------------|--------------------|-----------------|
+| Cultivar 1 | Polinización abierta |                 |
+| Cultivar 2 | Polinización abierta |                 |
+| Cultivar 3 | Híbrido             |                 |
+| Cultivar 4 | Híbrido             |                 |
+| Cultivar 5 | Híbrido             |                 |
+
+### Diseño de la investigación 
+
+Para el desarrollo de la investigación, se empleará el diseño de bloques completamente al azar (DBCA), con 5 tratamientos, distribuidos en 4 bloques, con un total de 20 unidades experimentales. Los tratamientos se muestran en la Tabla 2 y la distribución de las unidades experimentales se muestran en la Figura 1.
+
+**Tabla 2.** Descripción de los tratamientos.
+
+| Tratamiento | Cultivar   |
+|-------------|------------|
+| T1          | Cultivar 1 |
+| T2          | Cultivar 2 |
+| T3          | Cultivar 3 |
+| T4          | Cultivar 4 |
+| T5          | Cultivar 5 |
+
+![**Figura 2.** Diseño de investigación](diseño.jpeg)
+
+### Modelo aditivo lineal
+
+$Yᵢⱼ = μ + τᵢ + βⱼ + εᵢⱼ$
+
+### Diseño del campo experimental
+
+Para la ejecución del trabajo experimental, se empleará un área de 394.45 m², divididas en 4 bloques, en cada bloque se distribuirán los 5 tratamientos, cada tratamiento estará distribuido en parcelas de 4.5 m x 3.5 m. En cada unidad experimental se instalarán 5 surcos de coliflor distanciados a 0.70 m entre surcos y entre plantas a 0.40 m, que corresponde a una densidad de 35 714 plantas/ha.
+
+**Tabla 3.** Diseño del campo experimental.
+
+| Categoría                | Descripción                              | Valor    |
+|--------------------------|------------------------------------------|----------|
+| Área experimental        | Largo del área experimental              | 24.5 m   |
+| Área experimental        | Ancho del área experimental              | 16.1 m   |
+| Área experimental        | Área total del área experimental         | 394.45 m² |
+| Unidad experimental (UE) | Número de UE                             | 20       |
+| Unidad experimental (UE) | Largo de la UE                           | 4.5 m    |
+| Unidad experimental (UE) | Ancho de la UE                           | 3.5 m    |
+| Unidad experimental (UE) | Área neta de la UE                       | 15.75 m² |
+| Bloques                  | Número de bloques                        | 4        |
+| Bloques                  | Largo                                     | 24.5 m   |
+| Bloques                  | Ancho                                     | 3.5 m    |
+| Bloques                  | Distancia entre bloques                  | 0.7 m    |
+| Surcos                   | Número de surcos por UE                  | 5        |
+| Surcos                   | Largo de los surcos                      | 4.5 m    |
+| Surcos                   | Distanciamiento entre surcos             | 0.7 m    |
+| Calles                   | Ancho de las calles entre cada UE        | 0.5 m    |
+| Calles                   | Ancho de las calles de cada bloque       | 0.7 m    |
+
+### Manejo agronómico
+
+#### Análisis de suelo
+
+Se realizará un análisis de suelo el cual es de suma importancia para poder conocer su pH, el porcentaje de materia orgánica y la cantidad de nitrógeno, potasio y fósforo que contiene donde se va a establecer el cultivo.
+
+#### Preparación del terreno
+
+Se realizará mediante el arado del suelo, desmenuzado de terrones y la nivelación del suelo y la preparación de los surcos para realizar el sembrado.
+
+#### Siembra de almácigo
+
+Se sembrará las semillas en unas 9 bandejas de germinación aproximadamente los cinco cultivares de coliflor.
+
+#### Trasplante de plántulas
+
+El trasplante se realizará una vez que las plántulas tengan un tamaño adecuado para que pueda soportar las condiciones de campo.
+
+#### Fertilización
+
+Se realizará una fertilización de base que es junto con la siembra y una complementaria, en función a un análisis de suelo previo y según el requerimiento del cultivo de coliflor.
+
+#### Riego
+
+Se aplicará un riego constante para facilitar la germinación y el establecimiento del cultivo.
+
+#### Control de malezas 
+
+Se realizará el control de malezas de manera manual haciendo el uso de una lampa o en todo caso de un sable o machete.
+
+#### Control fitosanitario
+
+Al ser la coliflor susceptible a varias plagas se realizará un monitoreo constante para evitar que se vea afectada por ellas y colocar trampas o hacer uso de químicos para el control de las plagas.
+
+#### Cosecha
+
+La cosecha se realizará una vez que el cultivo alcance el tamaño adecuado y la madurez que indique que se encuentra apta para su cosecha.
+
+### Evaluación de variables
+
+#### Evaluación de las variables morfológicas y fenológicas
+
+a.	Número de hojas
+
+El número de hojas a evaluar se tomarán de las 10 plantas seleccionadas al azar y las cuales serán evaluadas.
+
+b.	Altura de plantas
+
+La altura de las plantas será medida desde la base hasta el ápice de la planta, se realizará la medida de las 10 plantas seleccionadas del surco medio de cada unidad experimental.
+
+c.	Días al inicio de la floración
+
+Se realizará la evaluación de los cultivares desde el inicio de la floración hasta la cosecha.
+
+d.	Días a la cosecha
+
+Se evaluará los días transcurridos desde el trasplante de las plántulas al campo hasta el momento en que las pellas alcanzan el tamaño y capacidad comercial adecuada para la cosecha.
+
+#### Evaluación de las variables agronómicas
+
+a.	% de germinación
+
+Se evaluará en las bandejas de germinación la cantidad de semillas que germinaran después de la siembra.
+
+b.	% de prendimiento
+
+Se evaluará en campo la cantidad de plántulas que sobrevivieron en cada unidad experimental y se comparará con el número total trasplantado.
+
+c.	Diámetro de la pella
+
+Se medirá con una cinta métrica el diámetro transversal máximo de la pella, en el momento de la cosecha. Se tomarán mediciones en 10 plantas representativas por unidad experimental.
+
+d.	Peso de la pella
+
+Se determinará el peso de cada pella cosechada usando una balanza electrónica. Se evaluarán 10 pellas por unidad experimental. El valor se expresará en gramos o kilogramos, según el rango obtenido, y se calculará el promedio por tratamiento.
+
+e.	Rendimiento de pella
+
+El rendimiento se estimará aplicando el resultado que se obtendrá en una muestra pequeña a una escala mayor como una hectárea.
+
+#### Evaluación de las variables fisiológicas
+
+a.	Fotosíntesis neta
+xxx
+
+b.	Fluorescencia de la clorofila
+xxxx
+
+c.	Contenido de clorofila a y b
+xxxxx
+
+d.	Contenido de carotenoides totales
+xxxx
+
+#### Evaluación de las variables nutricionales de la pella
+
+a.	Materia seca
+xxx
+
+b.	Contenido total de aminoácidos
+xxx
+
+c.	Contenido total de proteínas
+xxx
+
+d.	Contenido total de azúcares
+xxx
+
+e.	Contenido total de almidón
+xxx
+
+f.	Contenido total de compuestos fenólicos
+Xxxx
+
+### Cronograma
+
+| Etapas                                                   | Duración | Inicio     | Fin        |
+|----------------------------------------------------------|----------|------------|------------|
+| Revisión y aprobación del proyecto.                      | 20 días  | 19/05/2025 | 07/06/2025 |
+| Elaboración del informe.                                 | 1 mes    | 08/06/2025 | 08/07/2025 |
+| Revisión y corrección del informe.                       | 1 mes    | 09/07/2025 | 09/08/2025 |
+| Establecimiento de la parcela, evaluación de variables y recolección de datos. | 10 meses | 14/06/2025 | 14/04/2026 |
+| Análisis de datos.                                       | 1 mes    | 15/04/2026 | 15/05/2026 |
+| Elaboración del informe final.                           | 1 mes    | 16/05/2026 | 16/06/2026 |
+| Presentación y sustentación.                             | —        | —          | —          |
+
+Nota: Fechas de cada etapa de duración del proyecto, desde el inicio hasta la finalización del proyecto de investigación. 
+
+## Analisis de datos
+
+Los datos obtenidos correspondientes a las variables agronómicas, fisiológicas y nutricionales serán sometidos a un análisis de varianza (ANOVA) utilizando un software estadístico como R, bajo un diseño de bloques completamente al azar (DBCA), se aplicará la prueba de Tukey al 5% de probabilidad. 
+
+# REFERENCIAS BIBLIOGRAFICAS
+
+- FAO. (2020). Crop diversification in Malasya—Tunku Mahmud Bin Tunku Yahya. Food 	and Agriculture Organization of the United Nations. 	https://www.fao.org/4/x6906e/x6906e08.htm
+
+- Flores, H. E., Ojeda, G. R., Medina, G., & Ramirez, G. (2020). Requerimientos 	agroecológicos de cultivos.
+
+- García, C. A. R. (2010). Identificación de plagas y enfermedades en el cultivo de 	crucíferas Brócolo (Brassica oleraceae l.
+
+- Index Box. (2025). Worldwide Cauliflower and Broccoli Market to See Steady Growth 	with +0.9% CAGR Expected from 2024 to 2035. World - Cauliflower And 	Broccoli - Market Analysis, Forecast, Size, Trends and Insights. 	https://www.indexbox.io/blog/cauliflower-and-broccoli-world-market-overview-	2024-1/
+
+- INEI. (2024a). Compendio Estadístico Departamento de Amazonas 2024. Instituto 	Nacional de Estadística e Informática.
+
+- INEI. (2024b). Tomo-2-peru-compendio-estadistico-2024. Instituto Nacional de 	Estadística e Informática.
+
+- Mabry, M. E., Turner-Hissong, S. D., Gallagher, E. Y., McAlvay, A. C., An, H., Edger, 	P. P., Moore, J. D., Pink, D. A. C., Teakle, G. R., Stevens, C. J., Barker, G., 	Labate, J., Fuller, D. Q., Allaby, R. G., Beissinger, T., Decker, J. E., Gore, M. 	A., & Pires, J. C. (2021). The Evolutionary History of Wild, Domesticated, and 	Feral Brassica oleracea (Brassicaceae). Molecular Biology and Evolution, 	38(10), 4419-4434. https://doi.org/10.1093/molbev/msab183
+
+- Maggioni, L., Von Bothmer, R., Poulsen, G., & Branca, F. (2010). Origin and 	Domestication of Cole Crops (Brassica oleracea L.): Linguistic and Literary 	Considerations1. Economic Botany, 64(2), 109-123. 	https://doi.org/10.1007/s12231-010-9115-2
+
+- Mittell, E. A., Cobbold, C. A., Ijaz, U. Z., Kilbride, E. A., Moore, K. A., & Mable, B. 	K. (2020). Feral populations of Brassica oleracea along Atlantic coasts in 	western Europe. Ecology and Evolution, 10(20), 11810-11825. 	https://doi.org/10.1002/ece3.6821
+
+- Ordás Pérez, A. (2001). Coliflor. Sociedad Española de Ciencias Hortícolas. 	https://digital.csic.es/handle/10261/166918
+
+- Romero, M., & Pérez, M. (2024). Optimizing Brassica oleracea L. Breeding Through 	Somatic Hybridization Using Cytoplasmic Male Sterility (CMS) Lines: From 	Protoplast Isolation to Plantlet Regeneration. Plants, 13(22), Article 22. 	https://doi.org/10.3390/plants13223247
+
+- Scienceagri. (2022). 10 World’s Largest Country Producers of Cauliflowers and 	Broccoli. The Science Agriculture. https://www.scienceagri.com/2023/11/10-	worlds-largest-producers-of.html
+
+- World Population. (2025). Broccoli Production by Country 2025. World Population 	Review. https://worldpopulationreview.com/country-rankings/broccoli-	production-by-country
+
